@@ -1,0 +1,5 @@
+.bsp
+.idea
+.DS_Store
+/target/
+hash_urls.txt

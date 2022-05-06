@@ -1,0 +1,8 @@
+https://www.google.com
+https://www.microsoft.com
+this_should_be_invalid
+https://www.yahoo.com
+https://www.google1.com
+https://www.microsoft1.com
+this_should_be_invalid1
+https://www.yahoo1.com
