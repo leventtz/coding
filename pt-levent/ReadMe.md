@@ -1,9 +1,7 @@
-scala.version : 2.13.8
-java.version : 11
-sbt.version = 1.6.2
+Scala version: 2.13.8 Java version: 11 SBT version: 1.6.2
 
-1. Run sbt server 
-then issue the following tasks
+
+1. Start the sbt server and then do the following operations.
 2. compile
 3. test
-4. run urls.txt  -- main app takes a url file as an arg then creates hash file, and then prints the result.
+4. process urls.txt — call main; accepts a url file as an argument, generates a hash file, and outputs the result. 
